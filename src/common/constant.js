@@ -1,0 +1,1 @@
+export const USER_NAME_TEXT = "用户名";
